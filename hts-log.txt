@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 21 Apr 2024 18:49:59 at https://control.taxi.brusseles.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://control.taxi.brusseles.com/ -O1 "C:\Mes Sites Web\2222" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:50:41	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/driver/a1p69001101mz5psbb22.html (from https://control.taxi.brusseles.com/driver/)
+18:50:44	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/taxi/a1p69000001mz5psaa2.html (from https://control.taxi.brusseles.com/taxi/)
+18:50:45	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/taxi/a1p69000001mz5psaa22.html (from https://control.taxi.brusseles.com/taxi/)
+18:50:45	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/taxi/a1p69000001mz5psaas22.html (from https://control.taxi.brusseles.com/taxi/)
+18:50:45	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/taxi/a1p69000001mz5psaass22.html (from https://control.taxi.brusseles.com/taxi/)
+18:50:45	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/taxi/a1p69000001mz5psaasss22.html (from https://control.taxi.brusseles.com/taxi/)
+18:50:45	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/taxi/a1p69000001mz5psab22.html (from https://control.taxi.brusseles.com/taxi/)
+18:50:45	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/taxi/a1p69000001mz5psbb22.html (from https://control.taxi.brusseles.com/taxi/)
+18:50:45	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/taxi/a1p6900000mz5psaa1.html (from https://control.taxi.brusseles.com/taxi/)
+18:50:45	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/taxi/a1p6900000mz5psaa11.html (from https://control.taxi.brusseles.com/taxi/)
+18:50:45	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/taxi/a1p6900000mz5psaa2.html (from https://control.taxi.brusseles.com/taxi/)
+18:50:45	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/taxi/a1p6990000mz5pssaa2.html (from https://control.taxi.brusseles.com/taxi/)
+18:50:45	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/driver/iris-bm.png (from https://control.taxi.brusseles.com/driver/a1p69001101MZ5PSBB22.HTML)
+18:50:45	Error: 	"Not Found" (404) at link https://control.taxi.brusseles.com/taxi/iris-bm.png (from https://control.taxi.brusseles.com/taxi/a1p69000001MZ5PSAA2.HTML)
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 seconds : 59 links scanned, 44 files written (785843 bytes overall) [237706 bytes received at 5167 bytes/sec], 785843 bytes transferred using HTTP compression in 44 files, ratio 25%, 2.9 requests per connection
+(14 errors, 0 warnings, 0 messages)
